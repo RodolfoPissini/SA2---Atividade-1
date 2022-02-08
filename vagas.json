@@ -1,0 +1,34 @@
+[ 
+  {
+    "id":"1",
+    "descricao": "Web Design",
+    "requisitos": "html e css",
+    "remuneracao": "3000.00",
+    "beneficios": "Vale Transporte",
+    "local": "Campinas"
+  },
+  {
+    "id":"2",
+    "descricao": "Financeiro",
+    "requisitos": "Saber fazer contas",
+    "remuneracao": "2.0000",
+    "beneficios": "Vale transporte e refeição",
+    "local": "Cajamar"
+  },
+  {
+    "id":"3",
+    "descricao": "Vendedor",
+    "requisitos": "Facilidades em comunicação",
+    "remuneracao": "2500,00",
+    "beneficios": "Vale transporte",
+    "local": "Ribeirão Preto"
+  },
+  {
+    "id":"4",
+    "descricao": "Torneiro mecanico",
+    "requisitos": "CNC",
+    "remuneracao": "3800,00",
+    "beneficios": "Assistencia Medica",
+    "local": "Bauru"
+  }
+]
